@@ -1,0 +1,11 @@
+//identificar los estados de la aplicacion
+export const RETRIEVE_VEHICULOS = "RETRIEVE_VEHICULOS";
+export const RETRIEVE_VEHICULO = "RETRIEVE_VEHICULO";
+
+export const CHANGE_KEY = "CHANGE_KEY";
+export const CLEAN_VEHICULO = "CLEAN_VEHICULO";
+export const CLEAN_DETALLE = "CLEAN_DETALLE";
+export const CREATE_VEHICULO = "CREATE_VEHICULO";
+export const UPDATE_VEHICULO = "UPDATE_VEHICULO";
+export const DELETE_VEHICULO = "DELETE_VEHICULO";
+export const DELETE_VEHICULOS = "DELETE_VEHICULOS";
